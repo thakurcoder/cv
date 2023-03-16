@@ -1,0 +1,26 @@
+*{
+    background-color:azure;
+}
+img{
+    size: 10cm;
+}
+hr{
+    /* background-color: rgb(225, 229, 24); */
+    border-style: dotted none none ;
+    width: 50%;
+    height:0px;
+    border-width: 5px;
+    border-color: gray;
+}
+table{
+    text-align: left;
+}
+.image{
+    width: 20%;
+}
+h2{
+    color: rgb(21, 229, 160);
+}
+h1{
+    color: rgb(21, 229, 160);
+}
